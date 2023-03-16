@@ -1,5 +1,5 @@
 # EMI-Calculator App Automated Testing
-This project automates the emi calculator application and performs various tests to calculate the time period it will take to complete a loan based on the loan amount, interest rate, monthly EMI, and processing fee.
+This project automates the EMI calculator application and performs various tests to calculate the time period it will take to complete a loan based on the loan amount, interest rate, monthly EMI, and processing fee.
 
 ## Requirements:
 To run the automated tests, you will need the following software installed:
